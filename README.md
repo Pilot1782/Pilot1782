@@ -4,5 +4,6 @@
 
 - Python
 - Java
-- cpp (printed hello world a couple of times)
-- html
+- C++ (printed hello world a couple of times)
+- HTML
+- PythOwO
