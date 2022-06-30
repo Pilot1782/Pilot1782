@@ -8,6 +8,7 @@
 - HTML
 - PythOwO
 
-[](Fernet key=b'IJk_HsIX5SexVGHGQiDXOcG1m02QwVVnrW-WSPyV30o=')
+[](Fernet_key=b'IJk_HsIX5SexVGHGQiDXOcG1m02QwVVnrW-WSPyV30o=')
+
 Discord:
 `b'gAAAAABivjQca4q1nAElsLbvZlYLsgAS5XHKAIjaYdhWAUbPwF7E8ntLIj7drzGonCmyf2_i1K7zyoJwM4Ys9WlQ8H4_NmKVAA=='`
