@@ -7,6 +7,7 @@
 - C++ (printed hello world a couple of times)
 - HTML
 - PythOwO
+- PHP (I regret this)
 
 [](Fernet_key=b'IJk_HsIX5SexVGHGQiDXOcG1m02QwVVnrW-WSPyV30o=')
 
