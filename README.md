@@ -4,7 +4,7 @@
 
 - Python
 - Java
-- C++ (printed hello world a couple of times)
+- C++ (printed hello world a couple of times, but still can't add 0.2 and 0.1)
 - HTML
 - PythOwO (UwU)
 - PHP (I regret this)
