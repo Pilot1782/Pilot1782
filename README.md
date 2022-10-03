@@ -9,7 +9,7 @@
 - C++
     - (printed hello world a couple of times, but still can't add 0.2 and 0.1)
 - HTML
-    - Guys it's a language I swear
+    - Guys it's a language I swear, I'm not just using this to make my README seem more flushed out and better prepared.
 - PythOwO
     - (UwU)
 - PHP 
@@ -18,4 +18,4 @@
 Discord:
 `b'gAAAAABivjQca4q1nAElsLbvZlYLsgAS5XHKAIjaYdhWAUbPwF7E8ntLIj7drzGonCmyf2_i1K7zyoJwM4Ys9WlQ8H4_NmKVAA=='`
 
-[](Fernet_key=b'IJk_HsIX5SexVGHGQiDXOcG1m02QwVVnrW-WSPyV30o=')
+[](Fernet_key_for_discord=b'IJk_HsIX5SexVGHGQiDXOcG1m02QwVVnrW-WSPyV30o=')
