@@ -4,7 +4,7 @@
 ## Languages
 
 - Python
-    - True + True == 2
+    - `True + True == 2`
 - Java
     - James Gossling when creating java: "We could make a method out of this"
 - C++
