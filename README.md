@@ -4,7 +4,7 @@
 ## Languages
 
 - Python
-    - `print(sum([len(set(range(1, 3)) & set(range(2, 4))) for _ in range(int(3.14 * 2))]) and not (0 or False or []) or sum([len(set(range(1, 3)) & set(range(2, 4))) for _ in range(int(3.14 * 2))]) == sum([len(set(range(1, 3)) & set(range(2, 4))) for _ in range(int(3.14 * 2))]))`
+    - `a = 6,9; print(a); (a := 6,0); print(a); a, b = 6,9; print((a,b)); (a := 7, 8); print(a); print(b)  # type: ignore`
 - Java
     - James Gossling when creating java: "We could make a method out of this"
 - C++
