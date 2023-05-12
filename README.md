@@ -1,5 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilot1782&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pilot1782&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
@@ -15,7 +14,9 @@
     - (UwU)
 - PHP 
     - (I regret this)
-    
+
+![Cringe](https://komarev.com/ghpvc/?username=pilot1782&label=Pwofile%20viwews&color=14171b&style=fla)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pilot1782&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 Discord:
